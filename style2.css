@@ -1,0 +1,43 @@
+html {
+	font-family: 'Roboto';
+}
+
+body {
+	border: solid navy;
+	padding: 20px;
+}
+
+header {
+	border: solid red;
+	padding: 20px;
+	margin:5px;
+}
+
+h1 {
+	color: green;
+}
+
+nav {
+	border: solid black;
+}
+
+article {
+	border: solid yellow;
+}
+img{
+	width:30%;
+	border: 2px solid orange;
+}
+
+h2 {
+	border: solid pink;
+}
+
+p {
+	border: solid brown;
+}
+
+li {
+	border: solid grey;
+}
+
